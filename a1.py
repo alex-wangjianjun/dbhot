@@ -1,1 +1,2 @@
-company 50%
+company 50%,home 100%
+home qita
